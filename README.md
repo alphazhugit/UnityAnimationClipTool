@@ -1,0 +1,2 @@
+# UnityAnimationClipTool
+一个可以批量修改unity animationClip数据的小工具
